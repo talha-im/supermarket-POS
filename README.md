@@ -1,2 +1,2 @@
 # supermarket-POS
-The Supermarket POS provides essential features such as inventory control, auto-reordering, billing capabilities, and a loyalty point system. 
+The Supermarket POS provides essential features such as inventory control, auto-reordering, billing capabilities, and a loyalty point system. It manages inventory by allowing product addition, updates, and removal, while ensuring optimal stock levels through automatic reorder requests. The model generates itemized bills and implements a loyalty point system to reward customer loyalty. 
